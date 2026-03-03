@@ -77,4 +77,4 @@ Training script: :contentReference[oaicite:2]{index=2}
 ---
 requirenments-
 1. pip install tensorflow keras numpy scikit-learn matplotlib
-. pip install -q tensorflow
+2. pip install -q tensorflow
